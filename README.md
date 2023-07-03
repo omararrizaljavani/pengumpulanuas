@@ -1,4 +1,6 @@
 # pengumpulan uas
+Omar Arrizal Javani
+201011401709
 
 from scipy import stats
 import numpy as np
